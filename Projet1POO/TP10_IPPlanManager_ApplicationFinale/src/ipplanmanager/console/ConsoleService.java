@@ -6,7 +6,7 @@ package ipplanmanager.console;
 
 /**
  *
- * @author aquil
+ * @author ALVARESSE
  */
 
     import ipplanmanager.model.BesoinReseau ;

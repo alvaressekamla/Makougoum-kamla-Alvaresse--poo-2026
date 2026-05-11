@@ -6,7 +6,7 @@ package ipplanmanager.service;
 
 /**
  *
- * @author aquil
+ * @author ALVARESSE
  */
 import ipplanmanager.exception.ChevauchementReseauException;
 import ipplanmanager.exception.AdresseIPInvalideException;

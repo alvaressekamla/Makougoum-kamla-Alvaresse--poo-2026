@@ -27,7 +27,7 @@ public class Main {
     public static void main(String[] args) {
 
         System.out.println(
-                "===== IPPlan-Manager : TP9-Persistance KEMENE TAKO JAMES NELSON ====="
+                "===== IPPlan-Manager : TP9-Persistance MAKOUGOUM KAMLA ALVARESSE====="
         );
 
         /*

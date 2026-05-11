@@ -6,7 +6,7 @@ package ipplanmanager.repository;
 
 /**
  *
- * @author aquil
+ * @author ALVARESSE
  */
 import ipplanmanager.model.ResultatVLSM; 
 import ipplanmanager.model.VLAN; 

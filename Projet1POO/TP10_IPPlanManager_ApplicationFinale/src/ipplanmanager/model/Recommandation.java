@@ -6,7 +6,7 @@ package ipplanmanager.model;
 
 /**
  *
- * @author aquil
+ * @author ALVARESSE
  */
 public class Recommandation {
 

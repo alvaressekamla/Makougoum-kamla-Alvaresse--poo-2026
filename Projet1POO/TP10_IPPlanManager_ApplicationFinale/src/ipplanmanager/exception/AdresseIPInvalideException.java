@@ -6,7 +6,7 @@ package ipplanmanager.exception;
 
 /**
  *
- * @author aquil
+ * @author ALVARESSE
  */    
 public class AdresseIPInvalideException extends Exception { 
     public AdresseIPInvalideException(String message) { 

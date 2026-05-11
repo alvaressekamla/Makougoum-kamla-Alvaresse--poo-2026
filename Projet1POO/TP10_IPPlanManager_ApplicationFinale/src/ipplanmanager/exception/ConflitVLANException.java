@@ -6,7 +6,7 @@ package ipplanmanager.exception;
 
 /**
  *
- * @author aquil
+ * @author ALVARESSE
  */
  public class ConflitVLANException extends Exception {
 

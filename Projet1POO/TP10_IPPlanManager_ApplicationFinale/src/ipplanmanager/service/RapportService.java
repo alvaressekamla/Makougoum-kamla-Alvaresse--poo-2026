@@ -6,7 +6,7 @@ package ipplanmanager.service;
 
 /**
  *
- * @author aquil
+ * @author ALVARESSE
  */
 import ipplanmanager.model.BesoinReseau;
 import ipplanmanager.model.ResultatVLSM;

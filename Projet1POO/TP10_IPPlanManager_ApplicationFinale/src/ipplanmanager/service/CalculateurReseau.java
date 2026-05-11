@@ -8,7 +8,7 @@ import ipplanmanager.exception.AdresseIPInvalideException;
 
 /**
  *
- * @author aquil
+ * @author ALVARESSE
  */
 public class CalculateurReseau {
 
